@@ -2,30 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/about/index.html</loc>
+    <loc>http://only1studio.cn/2020/04/13/%E4%B8%80%E4%B8%AA%E5%96%9C%E7%88%B1%E7%94%B5%E5%BD%B1%E7%9A%84%E4%BA%BA%E8%83%BD%E5%88%A9%E7%94%A8%E4%BB%80%E4%B9%88%E5%B7%A5%E5%85%B7%EF%BC%9F/</loc>
     
-    <lastmod>2020-04-12T12:39:01.320Z</lastmod>
+    <lastmod>2020-04-13T12:40:22.879Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/tags/index.html</loc>
+    <loc>http://only1studio.cn/about/index.html</loc>
+    
+    <lastmod>2020-04-13T11:27:14.248Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://only1studio.cn/2020/04/12/%E5%8D%9A%E5%AE%A2%E8%AF%9E%E7%94%9F/</loc>
+    
+    <lastmod>2020-04-13T11:23:23.014Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://only1studio.cn/tags/index.html</loc>
     
     <lastmod>2020-04-12T12:02:15.772Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/categories/index.html</loc>
+    <loc>http://only1studio.cn/categories/index.html</loc>
     
     <lastmod>2020-04-12T12:02:05.040Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2020/04/12/Untitled/</loc>
-    
-    <lastmod>2020-04-12T08:49:51.903Z</lastmod>
     
   </url>
   

@@ -1,9 +1,126 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Untitled</title>
-    <url>/2020/04/12/Untitled/</url>
-    <content><![CDATA[<p>TEST</p>
+    <title>祝贺博客诞生</title>
+    <url>/2020/04/12/%E5%8D%9A%E5%AE%A2%E8%AF%9E%E7%94%9F/</url>
+    <content><![CDATA[<p>&emsp;&emsp;这是一个基于Hexo搭建的静态博客，我用了极短的时间来搭建它，然后用了大量时间修饰和美化它。这是博客里的第一篇文章，纪念今天我完成了博客的搭建，也纪念我拥有了一个完整的博客。之前我也有搭建过几个博客，第一个是自己购买了域名，服务器等搭建的，后来由于经费和备案问题就丢弃了。第二个是基于Gridea搭建的静态博客，Gridea是个非常不错的静态博客写作客户端。搭建过程也非常简单，通过官网的几个视频教程很快就能配合Github Pages搭建一个属于自己的静态博客，并且在多个平台都有GUI客户端来完成博客配置，写作和上传等功能。由于Gridea还是有些年轻，当后来我需要更高级些的功能时，我无意中通过B站发现了水寒的视频，然后我认识了Hexo。</p>
+<center>快速、简洁且高效的博客框架</center>
+&emsp;&emsp;目前Hexo提供了279个主题，当前博客主题是nexT。还提供了312个插件，当前博客安装了一些。不得不说，和Gridea比起来Hexo还是年长了不少，功能强悍。但就是搭建和运用起来对不了解npm、Git、GitHub的人不友善。所以如果你是一个计算机小白，没有编程经验的人，可以选择Gridea记录日常。如果你是计算机高手，或在学计算机的同学可以选择Hexo来记录你的学习经验和遇到的问题。
+
+<p><img src="https://i.loli.net/2019/11/30/v5LDYElnyRAczKT.jpg#pic_center" alt="HEXO"></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>一个喜爱电影的人能利用什么工具？</title>
+    <url>/2020/04/13/%E4%B8%80%E4%B8%AA%E5%96%9C%E7%88%B1%E7%94%B5%E5%BD%B1%E7%9A%84%E4%BA%BA%E8%83%BD%E5%88%A9%E7%94%A8%E4%BB%80%E4%B9%88%E5%B7%A5%E5%85%B7%EF%BC%9F/</url>
+    <content><![CDATA[<p><img src="https://i.loli.net/2019/12/02/D4YjLaBhImNuwfZ.jpg#pic_center" alt="Jocker"></p>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>[本文完成于2019.02.03，2019.12.01迁移到本站]<br>&emsp;&emsp;读者你好，我是一名浙江理工大学的大二学生，除了学习以外，我还酷爱音乐和电影。今天就给网友们分享一下，我的观影方法和工具。 因为我的性格是比较喜静的,是比较内向不善与人交流，不喜欢人多的地方，不喜欢见太多的陌生人。所以我不喜欢去电影院观影。我更喜欢一个人，在电脑上或者手机平板上看电影。这样的好处是：</p>
+<ol>
+<li>安静，不会像电影院那样嘈杂，有接听手机或者有人发出声音。</li>
+<li>不会错过一些镜头，不会像电影院那样有人挡住荧幕或者自己上厕所走开了而错过电影情节，就跟不上电影节奏了。如果自己看的话，可以回切，比较方便。</li>
+<li>充分的感受，和抒发感情。我有看煽情的电影情节会落泪的，所以，男儿哭吧！不用担心别人的眼光啦。</li>
+<li>方便，不用预约订票，赶时间之类的，有时间就看一部，不必刻意安排时间去电影院。</li>
+</ol>
+<p>&emsp;&emsp;当然这样看电影的话也是有很多不足的，视听效果是绝对没有电影院好的，除非大佬家里安装了一套家庭影院。还有情侣谈恋爱，约会之类的去电影院的可以选择忽略这篇文章，我这个单身狗不配！<br>我相信喜爱电影的人是不会嫌麻烦的，因为电影也像游戏，音乐一样是一种信仰，我能从电影里学习到知识，我也能从电影里感悟到人生哲理，我也能透过电影这面镜子里看到不足的自己。</p>
+<p>&emsp;&emsp;首先，我写这篇文章的目的是，希望能够帮到和我一样的喜爱电影的人省钱，省力，省时间。我们常知的网络观看电影的方式一般都是使用视频播放软件，比如某讯视频，某奇艺视频，某酷视频等等。这样的观影的好处是方便，一个app就能看电影，很多电影。但是我不喜欢的，就是这些视频软件的盈利和播放方式（怀念某播）。<br>2019年，某讯的普通VIP是20元/月（首开10元）。涨价了好像是，我记得以前是15元来着？后来又出了超级影视VIP，约50元/月。某奇艺的普通VIP是19.8/月黄金会员、钻石VIP是30/月（新用户连续包月15元/月），还有一个体育会员，就不说了。某酷的普通VIP是20元/月（连续包月15元/月）。<br>虽然这些视频软件提供了方便快捷的观影，但是还有很多不足的地方，比如某些播放软件的会员特权里是写着免广告的，但是！你以为就真的没广告了吗？比如什么“会员专属广告”，还有令人头疼的贴片广告，甚至还有放到一半的穿插广告！</p>
+<p>&emsp;&emsp;广告的问题是很令人头疼的，但是还有一个问题也不简单，就是电影资源库的问题，因为买一部电影的版权是很昂贵的，也有一些电影版权也不出售，所以不可能出现一个App里包含了世界上的所有电影。有些电影即使开了会员，某讯视频里面也是没有的，然后你看了一下某奇艺视频有，但是要VIP才能播放，有钱的人会毫不犹豫的充值。但也会出现一些院线电影需另外支付才能播放的情况。</p>
+<p>&emsp;&emsp;还有一个字幕问题，可能有些人看电影不需要完整的双语字幕，中文就够了，但是身为一个爱学习的我，看着英语电影却放着中文字幕，我的内心是拒绝的。上面提过的视频播放软件也不是万能的，有些电影它也只有中文字幕，这就影响了我的观影体验了。<br>然后是清晰度的问题，我是一个挑剔的人，也患有重度近视。某某播放软件，如果不是VIP，最高清晰度720P（还有脸说自己是高清，明明很糊的，我笑死了），VIP可以升级1080P和更高清晰度。我一个摘掉眼镜的人，5米开外六亲不认，10米开外人畜不分的人，求求您赐瞎我吧！</p>
+<p>&emsp;&emsp;最后是删减问题，嗯，让我上一秒看到女主还没脱下裤子，下一秒就两个人躺在床上享受的样子。大哥喂，是导演剪辑还是软件刻意删减我眼瞎吗看不出来？我也明白在本国，有些东西不能拿到台面上来说话。但是身为一个爱学习的我，此刻的内心是，等等，我不能拒绝我的祖国。</p>
+<h1 id="工具"><a href="#工具" class="headerlink" title="工具"></a>工具</h1><center>本篇文章涉及的工具，部分需要一些计算机基础知识。</center>
+
+<h2 id="豆瓣电影"><a href="#豆瓣电影" class="headerlink" title="豆瓣电影"></a><a href="https://movie.douban.com/" target="_blank" rel="noopener">豆瓣电影</a></h2><p>&emsp;&emsp;豆瓣是以书影音起家，提供关于书籍、电影、音乐等作品的信息，无论描述还是评论都由用户提供（User-generated content，UGC），是Web 2.0网站中具有特色的一个网站。网站还提供书影音推荐、线下同城活动、小组话题交流等多种服务功能，它更像一个集品味系统（读书、电影、音乐）、表达系统（我读、我看、我听）和交流系统（同城、小组、友邻）于一体的创新网络服务，一直致力于帮助都市人群发现生活中有用的事物。 我经常逛豆瓣和简书，我喜欢豆瓣，它帮助我找到了很多有意思，有意义的好电影。通过使用豆瓣，能方便的查询一部电影的评分，这个评分都是由看过的人打分统计出来的，如果你不相信机器，那你还不相信大家的认同吗？豆瓣还可以观看影评，通过一些大神的影评，我可以理解哪些看不懂的情节，还有我没发现的细节，彩蛋。甚至可以通过影评感受一部电影的思想，意义，想表达的东西。<br><img src="https://img-blog.csdnimg.cn/20190202200620922.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L09ubHkxU3R1ZGlv,size_16,color_FFFFFF,t_70#pic_center" alt="上图电影为《发条橙》"></p>
+<h2 id="百度云网盘"><a href="#百度云网盘" class="headerlink" title="百度云网盘"></a><a href="https://pan.baidu.com/" target="_blank" rel="noopener">百度云网盘</a></h2><p>&emsp;&emsp;除了视频播放软件，我们用百度云网盘也是可以看电影的，利用搜索引擎搜索”电影名称“+“百度云网盘”，如果有人分享的话就保存到自己的网盘里，才能在线观看，画质呢也可以切换成原画，但是因为百度云网盘会压缩资源的，实际上并不是原画。下载来再看的话，呵呵。百度网盘堕落了，比迅雷还堕落，下载速度几十KB/S，等他下载完人都睡着了，所以没有开VIP的同志们还是选择先保存到我的网盘，再在线观看。缺点就是不能加载本地字幕，所以只能看嵌入字幕的电影。<br><img src="https://img-blog.csdnimg.cn/20190202204235568.JPG?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L09ubHkxU3R1ZGlv,size_16,color_FFFFFF,t_70#pic_center" alt="上图电影为《移魂都市》"></p>
+<h2 id="Pandownload"><a href="#Pandownload" class="headerlink" title="Pandownload"></a><a href="http://pandownload.com/" target="_blank" rel="noopener">Pandownload</a></h2><p>&emsp;&emsp;如果需要百度云网盘不限速下载工具的话，Pandownload是个不错的选择。这个工具很赞的，百度网盘资源不限速下载，支持离线下载、资源搜索，新番下载等功能，最主要的是，永久免费。如果有点存款的朋友可以考虑一下，Pandownload给我们提供了很多方便，这个团队无私的为我们需要的人贡献，程序员辛苦的编程和维护，而且还需要购买服务器长期为我们提供便利，希望有好心人能够资助他们，让这个好程序走的更久。目前Pandownload已支持安卓。（轻骑云好像已经挂了类似的有SpeedPan。安卓类似的软件有山寨云Village。）<br><img src="https://img-blog.csdnimg.cn/2019020220460266.JPG?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L09ubHkxU3R1ZGlv,size_16,color_FFFFFF,t_70#pic_center" alt="上图为Pandownload"></p>
+<h2 id="迅雷"><a href="#迅雷" class="headerlink" title="迅雷"></a><a href="https://www.xunlei.com/" target="_blank" rel="noopener">迅雷</a></h2><p>&emsp;&emsp;迅雷是个好东西，迅雷是迅雷公司开发的互联网下载软件。本身不支持上传资源，只提供下载和自主上传。迅雷下载过相关资源，都能有所记录。迅雷是一款基于多资源超线程技术的下载软件，作为“宽带时期的下载工具”，迅雷针对宽带用户做了优化，并同时推出了“智能下载”的服务。迅雷利用多资源超线程技术基于网格原理，能将网络上存在的服务器和计算机资源进行整合，构成迅雷网络，通过迅雷网络各种数据文件能够传递。多资源超线程技术还具有互联网下载负载均衡功能，在不降低用户体验的前提下，迅雷网络可以对服务器资源进行均衡。<br>&emsp;&emsp;前些年迅雷是个良心产品，有精简版，极速版，不仅仅下载速度相当快，而且基本没有广告。现在的迅雷虽然限速了，但也比百度云网盘速度快了N倍，就是广告有点多，但也基本无伤大雅，软件界面的广告是正常的，不影响观影体验。我们可以通过搜索引擎或者BT磁力站点找电影的磁力链接或者BT种子。通过迅雷下载后观看，也可以边下边播。手机迅雷使用也非常方便。我们可以在手机迅雷自带的搜索引擎里找电影，然后一键下载。<br><img src="https://img-blog.csdnimg.cn/20190202210650204.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L09ubHkxU3R1ZGlv,size_16,color_FFFFFF,t_70#pic_center" alt=""><br>&emsp;&emsp;以上图为例，打开手机迅雷，在主页最上方搜索引擎里输入“磁力猫”进入磁力猫主页，然后在磁力猫的搜索框内输入电影名称，点击下载资源后会进入资源列表，上图中间的就是列出的磁力连接，点击红色磁链按钮就弹出下载界面了。</p>
+<p>&emsp;&emsp;PC版的迅雷下载电影的方法和安卓类似，在软件主页最上方的搜索框内进入磁力猫，搜索电影名称，进入资源列表，点击红色磁链按钮就可以下载了。<br><img src="https://img-blog.csdnimg.cn/20190202211404916.JPG?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L09ubHkxU3R1ZGlv,size_16,color_FFFFFF,t_70#pic_center" alt=""><br>&emsp;&emsp;下载完成后可以配合迅雷影音播放器播放，使用迅雷播内置的放组件也可以，但是功能没有迅雷影音多。<br>&emsp;&emsp;使用迅雷的好处是，资源比较多，而且在磁力站里的资源大部分是没有水印，没有广告，没有字幕（下面会讲解如何找字幕）而且是没有删减的。这样的电影我很喜欢，也适合做视频剪辑。让我们算一下钱的问题，迅雷的会员价格是：白金会员15元/月，超级会员是30/月。如果使用某讯等软件，和迅雷这个无水印无广告而且资源丰富的“电影播放器”来比，迅雷是否更有优越感？而且迅雷不仅仅是面向电影的，软件、音频、资料、压缩包等等都可以用迅雷下载，真的是稳赚不赔。<br>&emsp;&emsp;迅雷白金会员就够了，我家100M宽带使用迅雷最高达10MB+/s。</p>
+<h2 id="BT-磁力站"><a href="#BT-磁力站" class="headerlink" title="BT / 磁力站"></a>BT / 磁力站</h2><p>&emsp;&emsp;上面说通过迅雷下载磁力链接方便看电影的方法，下面就介绍几个国内可以访问的BT/磁力站点。</p>
+<h3 id="国内磁力站"><a href="#国内磁力站" class="headerlink" title="国内磁力站"></a>国内磁力站</h3><p>&emsp;&emsp;磁力猫是个国内开发的磁链网站，可以搜索电影、电视剧、动漫、文档、软件等，中文界面，方便英语弱的同志。优点是整合了几乎全网的磁力链接，方便选择分辨率和文件大小。缺点是一旦列表里的资源太多，容易出现选择困难，一般我都是选文件小的，清晰度1080P的下载。<br>&emsp;&emsp;磁力猫还有一个优点就是有精简版的“豆瓣”信息，估计是Python爬虫过来的。<br>&emsp;&emsp;磁力猫的部分电影支持在线播放，就是视频解析的，相信我，很差劲。<br><img src="https://img-blog.csdnimg.cn/2019020222042844.JPG?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L09ubHkxU3R1ZGlv,size_16,color_FFFFFF,t_70#pic_center" alt=""></p>
+<h3 id="国外磁力站"><a href="#国外磁力站" class="headerlink" title="国外磁力站"></a>国外磁力站</h3><p><a href="https://yts.am/" target="_blank" rel="noopener">YTS</a>&emsp;&emsp;<a href="https://zooqle.com/" target="_blank" rel="noopener">Zooqle</a>&emsp;&emsp;<a href="https://rarbgprx.org/torrents.php" target="_blank" rel="noopener">RARGB</a></p>
+<center>这三个里比较方便使用的是RARBG和Zooqle，不仅仅有电影电视音乐游戏，还能使用迅雷下载福利，你懂的。</center>
+
+<p><img src="https://img-blog.csdnimg.cn/20190202215854725.JPG#pic_center" alt=""></p>
+<center>唯一的缺点就是在国外的磁力站里搜索只能搜电影的英文名，请绕道搜索引擎或者豆瓣去复制电影的英文名来。</center>
+
+<h2 id="字幕站"><a href="#字幕站" class="headerlink" title="字幕站"></a>字幕站</h2><p>&emsp;&emsp;因为在磁力站下载的电影是没有字幕的，个别院线电影有韩版的嵌入字幕。对于我们这些英语没过八级，韩语只知道欧巴之类的人看起来是非常吃力的。所以我们需要字幕，一些视频播放器支持在线匹配字幕的，比如以前的QQ影音，为什么说以前，是因为最近QQ影音诈尸了，突然的更新，砍掉了在线匹配字幕的功能。还有就是我经常使用的迅雷影音播放器，但是也不是所有的电影都能够在线匹配，即使有也不一定是中英双语字幕，所以这时候就需要我们从网上下载字幕再从本地加载进电影播放器里了。</p>
+<h3 id="国内字幕站"><a href="#国内字幕站" class="headerlink" title="国内字幕站"></a>国内字幕站</h3><p><a href="https://www.zimushe.com/" target="_blank" rel="noopener">字幕社</a>&emsp;&emsp;<a href="https://www.zimuku.cn/" target="_blank" rel="noopener">字幕库</a>&emsp;&emsp;<a href="http://assrt.net/" target="_blank" rel="noopener">射手网（伪）</a>&emsp;&emsp;<a href="http://dbfansub.com/" target="_blank" rel="noopener">电波字幕组</a>&emsp;&emsp;<a href="http://www.rrys.tv/" target="_blank" rel="noopener">人人影视字幕组</a></p>
+<p><img src="https://img-blog.csdnimg.cn/20190203124018833.JPG#pic_center" alt=""></p>
+<p>&emsp;&emsp;以字幕社为例，搜索电影名称，匹配到字幕。有黄色双语样式的就是我们要找的字幕，下载到本地之后把它放在电影的路径目录一起。字幕后缀名为SRT或SSA的都可以。</p>
+<p><img src="https://img-blog.csdnimg.cn/20190203125427490.JPG#pic_center" alt=""></p>
+<p>&emsp;&emsp;上图为字幕库的字幕列表，我们可以看出，不同的红旗代表着不同的语言，下划线所代表的也是不同的语言：</p>
+<table>
+<thead>
+<tr>
+<th>旗帜</th>
+<th align="left">标注</th>
+<th align="right">语言</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>五星红旗</td>
+<td align="left">.Chs</td>
+<td align="right">中文简体</td>
+</tr>
+<tr>
+<td>香港区旗</td>
+<td align="left">.Cht</td>
+<td align="right">中文繁体</td>
+</tr>
+<tr>
+<td>英国国旗</td>
+<td align="left">.Eng</td>
+<td align="right">英语</td>
+</tr>
+<tr>
+<td>海盗旗</td>
+<td align="left">.Cht&amp;Eng</td>
+<td align="right">双语繁体中字</td>
+</tr>
+<tr>
+<td>海盗旗</td>
+<td align="left">.Chs&amp;Eng</td>
+<td align="right">双语简体中字</td>
+</tr>
+</tbody></table>
+<h3 id="其他语种字幕站"><a href="#其他语种字幕站" class="headerlink" title="其他语种字幕站"></a>其他语种字幕站</h3><p><a href="https://isubtitles.info/" target="_blank" rel="noopener">iSubtitles</a>&emsp;&emsp;<a href="https://www.podnapisi.net/" target="_blank" rel="noopener">Podnapisi</a>&emsp;&emsp;<a href="http://www.yifysubtitles.com/" target="_blank" rel="noopener">YIFY</a></p>
+<p><img src="https://img-blog.csdnimg.cn/20190203133734237.JPG#pic_center" alt=""></p>
+<h2 id="豆瓣资源下载大师"><a href="#豆瓣资源下载大师" class="headerlink" title="豆瓣资源下载大师"></a>豆瓣资源下载大师</h2><p>&emsp;&emsp;上面介绍了我使用的几款工具，我在想能不能把其中的两个或多个集中在一起达到更方便的使用呢？产生这个想法的原因是，如果我想找电影看了，我要走以下几个步骤：</p>
+<ol>
+<li>打开豆瓣网，筛选电影 ，决定看哪部。 5分钟</li>
+<li>打开磁力站，搜索电影，筛选电影大小，清晰度，选择下载。 3分钟</li>
+<li>打开字幕站，搜索电影名称（可能要从豆瓣网复制电影的英文名），筛选并下载。 3分钟</li>
+<li>打开豆瓣网，评分，刷影评。 N分钟</li>
+</ol>
+<p>&emsp;&emsp;作为一个宅男+懒人+技术能手+穷的一个人，我能利用什么工具方便一键筛选电影、磁力站和字幕呢？</p>
+<p><img src="https://img-blog.csdnimg.cn/20190203140252288.JPG#pic_center" alt=""></p>
+<p>&emsp;&emsp;通过上图我们可以明显的看出A和B有什么不同，A是原来的豆瓣电影网页信息，B是使用工具后的豆瓣电影网页信息：</p>
+<ol>
+<li>添加了IBMD评分。</li>
+<li>界面布局操作更方便。</li>
+<li>更改了右边侧栏，添加了精准中文字幕、中文影视字幕、BT国内网站和BT国外网站。</li>
+<li>工具会自检网络上是否有匹配的内容，如果没有，按钮会呈淡黄色背景。</li>
+</ol>
+<p>所以使用这个工具的好处就是一旦在豆瓣找到电影就可以一键点击到BT站，同时会自动搜索电影名称。一键点击到字幕站，同时会自动搜索电影名称。</p>
+<center>这个工具是很强大的，看图:</center>
+
+<p><img src="https://img-blog.csdnimg.cn/20190203141529284.png#pic_center" alt=""><br>&emsp;&emsp;工具提供了超级多的选择，我们可以通过开关留下在豆瓣电影网页信息页面显示的，关闭用不到的。</p>
+<h3 id="安装方法"><a href="#安装方法" class="headerlink" title="安装方法"></a>安装方法</h3><p>&emsp;&emsp;工具【豆瓣资源下载大师】是一款油猴插件的脚本，需要结合浏览器使用。我使用的是Firefox火狐浏览器，其他浏览器也可以使用，安装方式也各不相同，安装方法可以参考百度。<br>&emsp;&emsp;安装好油猴插件以后就要添加豆瓣资源下载大师的脚本了：</p>
+<ol>
+<li>进入<a href="https://greasyfork.org/zh-CN" target="_blank" rel="noopener">https://greasyfork.org/zh-CN</a></li>
+<li>搜索豆瓣资源下载大师</li>
+<li>安装脚本</li>
+<li>刷新浏览器</li>
+<li>访问豆瓣</li>
+<li>脚本设置</li>
+</ol>
+<p><img src="https://img-blog.csdnimg.cn/20190203144433949.JPG#pic_center" alt=""></p>
+<h1 id="如何加载字幕文件"><a href="#如何加载字幕文件" class="headerlink" title="如何加载字幕文件"></a>如何加载字幕文件</h1><p>&emsp;&emsp;手机迅雷支持边下边播，也支持加载本地字幕，下图为手机迅雷添加本地字幕方法：<br><img src="https://img-blog.csdnimg.cn/2019020315123612.jpg#pic_center" alt=""></p>
+<ol>
+<li>点击字幕按钮。</li>
+<li>点击本地匹配。</li>
+<li>选择字幕文件。</li>
+<li>字幕加载成功。</li>
+</ol>
+<h2 id="迅雷影音"><a href="#迅雷影音" class="headerlink" title="迅雷影音"></a>迅雷影音</h2><p><img src="https://img-blog.csdnimg.cn/20190203151903512.JPG#pic_center" alt=""></p>
 ]]></content>
   </entry>
 </search>
