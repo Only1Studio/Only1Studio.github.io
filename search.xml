@@ -1,18 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>祝贺博客诞生</title>
-    <url>/2020/04/12/%E5%8D%9A%E5%AE%A2%E8%AF%9E%E7%94%9F/</url>
-    <content><![CDATA[<p>&emsp;&emsp;这是一个基于Hexo搭建的静态博客，我用了极短的时间来搭建它，然后用了大量时间修饰和美化它。这是博客里的第一篇文章，纪念今天我完成了博客的搭建，也纪念我拥有了一个完整的博客。之前我也有搭建过几个博客，第一个是自己购买了域名，服务器等搭建的，后来由于经费和备案问题就丢弃了。第二个是基于Gridea搭建的静态博客，Gridea是个非常不错的静态博客写作客户端。搭建过程也非常简单，通过官网的几个视频教程很快就能配合Github Pages搭建一个属于自己的静态博客，并且在多个平台都有GUI客户端来完成博客配置，写作和上传等功能。由于Gridea还是有些年轻，当后来我需要更高级些的功能时，我无意中通过B站发现了水寒的视频，然后我认识了Hexo。</p>
-<a id="more"></a>
-
-<center>快速、简洁且高效的博客框架</center>
-&emsp;&emsp;目前Hexo提供了279个主题，当前博客主题是nexT。还提供了312个插件，当前博客安装了一些。不得不说，和Gridea比起来Hexo还是年长了不少，功能强悍。但就是搭建和运用起来对不了解npm、Git、GitHub的人不友善。所以如果你是一个计算机小白，没有编程经验的人，可以选择Gridea记录日常。如果你是计算机高手，或在学计算机的同学可以选择Hexo来记录你的学习经验和遇到的问题。
-
-<p><img src="https://i.loli.net/2019/11/30/v5LDYElnyRAczKT.jpg#pic_center" alt="HEXO"></p>
-]]></content>
-  </entry>
-  <entry>
     <title>一个喜爱电影的人能利用什么工具？</title>
     <url>/2020/04/13/%E4%B8%80%E4%B8%AA%E5%96%9C%E7%88%B1%E7%94%B5%E5%BD%B1%E7%9A%84%E4%BA%BA%E8%83%BD%E5%88%A9%E7%94%A8%E4%BB%80%E4%B9%88%E5%B7%A5%E5%85%B7%EF%BC%9F/</url>
     <content><![CDATA[<p><img src="https://i.loli.net/2019/12/02/D4YjLaBhImNuwfZ.jpg#pic_center" alt="Jocker"></p>
@@ -141,6 +129,39 @@
       </tags>
   </entry>
   <entry>
+    <title>书签导航页</title>
+    <url>/2020/04/16/%E4%B9%A6%E7%AD%BE%E5%AF%BC%E8%88%AA%E9%A1%B5/</url>
+    <content><![CDATA[<center>排名不分先后</center>
+
+<h1 id="搜索引擎"><a href="#搜索引擎" class="headerlink" title="搜索引擎"></a>搜索引擎</h1><p><a href="https://www.google.com/" target="_blank" rel="noopener">Google</a>&emsp;&emsp;<a href="https://www.baidu.com" target="_blank" rel="noopener">百度</a>&emsp;&emsp;<a href="https://www.dogedoge.com/" target="_blank" rel="noopener">多吉搜索</a></p>
+<h1 id="ICO-矢量图标库"><a href="#ICO-矢量图标库" class="headerlink" title="ICO 矢量图标库"></a>ICO 矢量图标库</h1><p><a href="https://www.easyicon.net/" target="_blank" rel="noopener">Easyicon</a>&emsp;&emsp;<a href="https://www.iconfont.cn/" target="_blank" rel="noopener">Iconfont</a>&emsp;&emsp;<a href="https://fontawesome.com/" target="_blank" rel="noopener">Font Awesome</a></p>
+<h1 id="电影片源"><a href="#电影片源" class="headerlink" title="电影片源"></a>电影片源</h1><p><a href="http://pianyuan.la/" target="_blank" rel="noopener">片源网</a>&emsp;&emsp;<a href="http://www.rrys2019.com/" target="_blank" rel="noopener">人人影视</a>&emsp;&emsp;<a href="https://rarbgprx.org/" target="_blank" rel="noopener">Rarbg</a>&emsp;&emsp;<a href="https://yts.am/" target="_blank" rel="noopener">YTS</a>&emsp;&emsp;<a href="https://zooqle.com/" target="_blank" rel="noopener">Zooqle</a></p>
+<h1 id="电影字幕"><a href="#电影字幕" class="headerlink" title="电影字幕"></a>电影字幕</h1><p><a href="http://www.zimuku.la/" target="_blank" rel="noopener">字幕库</a>&emsp;&emsp;<a href="http://www.rrys2019.com/" target="_blank" rel="noopener">人人影视字幕组</a>&emsp;&emsp;<a href="http://assrt.net/" target="_blank" rel="noopener">射手网(伪)</a>&emsp;&emsp;<a href="http://www.zimuxia.cn/" target="_blank" rel="noopener">FIX字幕侠</a>&emsp;&emsp;<a href="http://www.orangesub.com/" target="_blank" rel="noopener">Orange字幕组</a>&emsp;&emsp;<a href="http://dbfansub.com/" target="_blank" rel="noopener">电波字幕组</a></p>
+<h1 id="逆向破解"><a href="#逆向破解" class="headerlink" title="逆向破解"></a>逆向破解</h1><p><a href="https://www.xuepojie.com/" target="_blank" rel="noopener">学破解论坛</a>&emsp;&emsp;<a href="https://www.52pojie.cn/" target="_blank" rel="noopener">吾爱破解</a>&emsp;&emsp;<a href="https://www.chinapyg.com/" target="_blank" rel="noopener">PYG飘云阁</a></p>
+<p>持续更新…….</p>
+]]></content>
+      <categories>
+        <category>网站</category>
+      </categories>
+      <tags>
+        <tag>导航</tag>
+        <tag>网站</tag>
+        <tag>书签</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>祝贺博客诞生</title>
+    <url>/2020/04/12/%E5%8D%9A%E5%AE%A2%E8%AF%9E%E7%94%9F/</url>
+    <content><![CDATA[<p>&emsp;&emsp;这是一个基于Hexo搭建的静态博客，我用了极短的时间来搭建它，然后用了大量时间修饰和美化它。这是博客里的第一篇文章，纪念今天我完成了博客的搭建，也纪念我拥有了一个完整的博客。之前我也有搭建过几个博客，第一个是自己购买了域名，服务器等搭建的，后来由于经费和备案问题就丢弃了。第二个是基于Gridea搭建的静态博客，Gridea是个非常不错的静态博客写作客户端。搭建过程也非常简单，通过官网的几个视频教程很快就能配合Github Pages搭建一个属于自己的静态博客，并且在多个平台都有GUI客户端来完成博客配置，写作和上传等功能。由于Gridea还是有些年轻，当后来我需要更高级些的功能时，我无意中通过B站发现了水寒的视频，然后我认识了Hexo。</p>
+<a id="more"></a>
+
+<center>快速、简洁且高效的博客框架</center>
+&emsp;&emsp;目前Hexo提供了279个主题，当前博客主题是nexT。还提供了312个插件，当前博客安装了一些。不得不说，和Gridea比起来Hexo还是年长了不少，功能强悍。但就是搭建和运用起来对不了解npm、Git、GitHub的人不友善。所以如果你是一个计算机小白，没有编程经验的人，可以选择Gridea记录日常。如果你是计算机高手，或在学计算机的同学可以选择Hexo来记录你的学习经验和遇到的问题。
+
+<p><img src="https://i.loli.net/2019/11/30/v5LDYElnyRAczKT.jpg#pic_center" alt="HEXO"></p>
+]]></content>
+  </entry>
+  <entry>
     <title>装机软件</title>
     <url>/2020/04/16/%E8%A3%85%E6%9C%BA%E8%BD%AF%E4%BB%B6/</url>
     <content><![CDATA[<p>本页记录自用软件访问/下载网址，因装机导致要重新下载的软件，一个个找比较麻烦，便记录下来，方便以后装机后快速下载。默认为下载页。持续更新…….</p>
@@ -186,27 +207,6 @@
       <tags>
         <tag>装机</tag>
         <tag>软件</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>书签导航页</title>
-    <url>/2020/04/16/%E4%B9%A6%E7%AD%BE%E5%AF%BC%E8%88%AA%E9%A1%B5/</url>
-    <content><![CDATA[<center>排名不分先后</center>
-
-<h1 id="搜索引擎"><a href="#搜索引擎" class="headerlink" title="搜索引擎"></a>搜索引擎</h1><p><a href="https://www.google.com/" target="_blank" rel="noopener">Google</a>&emsp;&emsp;<a href="https://www.baidu.com" target="_blank" rel="noopener">百度</a>&emsp;&emsp;<a href="https://www.dogedoge.com/" target="_blank" rel="noopener">多吉搜索</a></p>
-<h1 id="ICO-矢量图标库"><a href="#ICO-矢量图标库" class="headerlink" title="ICO 矢量图标库"></a>ICO 矢量图标库</h1><p><a href="https://www.easyicon.net/" target="_blank" rel="noopener">Easyicon</a>&emsp;&emsp;<a href="https://www.iconfont.cn/" target="_blank" rel="noopener">Iconfont</a>&emsp;&emsp;<a href="https://fontawesome.com/" target="_blank" rel="noopener">Font Awesome</a></p>
-<h1 id="电影片源"><a href="#电影片源" class="headerlink" title="电影片源"></a>电影片源</h1><p><a href="http://pianyuan.la/" target="_blank" rel="noopener">片源网</a>&emsp;&emsp;<a href="http://www.rrys2019.com/" target="_blank" rel="noopener">人人影视</a>&emsp;&emsp;<a href="https://rarbgprx.org/" target="_blank" rel="noopener">Rarbg</a>&emsp;&emsp;<a href="https://yts.am/" target="_blank" rel="noopener">YTS</a>&emsp;&emsp;<a href="https://zooqle.com/" target="_blank" rel="noopener">Zooqle</a></p>
-<h1 id="电影字幕"><a href="#电影字幕" class="headerlink" title="电影字幕"></a>电影字幕</h1><p><a href="http://www.zimuku.la/" target="_blank" rel="noopener">字幕库</a>&emsp;&emsp;<a href="http://www.rrys2019.com/" target="_blank" rel="noopener">人人影视字幕组</a>&emsp;&emsp;<a href="http://assrt.net/" target="_blank" rel="noopener">射手网(伪)</a>&emsp;&emsp;<a href="http://www.zimuxia.cn/" target="_blank" rel="noopener">FIX字幕侠</a>&emsp;&emsp;<a href="http://www.orangesub.com/" target="_blank" rel="noopener">Orange字幕组</a>&emsp;&emsp;<a href="http://dbfansub.com/" target="_blank" rel="noopener">电波字幕组</a></p>
-<h1 id="逆向破解"><a href="#逆向破解" class="headerlink" title="逆向破解"></a>逆向破解</h1><p><a href="https://www.xuepojie.com/" target="_blank" rel="noopener">学破解论坛</a>&emsp;&emsp;<a href="https://www.52pojie.cn/" target="_blank" rel="noopener">吾爱破解</a>&emsp;&emsp;<a href="https://www.chinapyg.com/" target="_blank" rel="noopener">PYG飘云阁</a></p>
-<p>持续更新…….</p>
-]]></content>
-      <categories>
-        <category>网站</category>
-      </categories>
-      <tags>
-        <tag>导航</tag>
-        <tag>网站</tag>
-        <tag>书签</tag>
       </tags>
   </entry>
 </search>
