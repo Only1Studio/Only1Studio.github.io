@@ -1,21 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>祝贺博客诞生</title>
-    <url>/2020/04/12/%E5%8D%9A%E5%AE%A2%E8%AF%9E%E7%94%9F/</url>
-    <content><![CDATA[<p>&emsp;&emsp;这是一个基于Hexo搭建的静态博客，我用了极短的时间来搭建它，然后用了大量时间修饰和美化它。这是博客里的第一篇文章，纪念今天我完成了博客的搭建，也纪念我拥有了一个完整的博客。之前我也有搭建过几个博客，第一个是自己购买了域名，服务器等搭建的，后来由于经费和备案问题就丢弃了。第二个是基于Gridea搭建的静态博客，Gridea是个非常不错的静态博客写作客户端。搭建过程也非常简单，通过官网的几个视频教程很快就能配合Github Pages搭建一个属于自己的静态博客，并且在多个平台都有GUI客户端来完成博客配置，写作和上传等功能。由于Gridea还是有些年轻，当后来我需要更高级些的功能时，我无意中通过B站发现了水寒的视频，然后我认识了Hexo。</p>
-<a id="more"></a>
+    <title>书签导航页</title>
+    <url>/2020/04/16/%E4%B9%A6%E7%AD%BE%E5%AF%BC%E8%88%AA%E9%A1%B5/</url>
+    <content><![CDATA[<center>排名不分先后</center>
 
-<center>快速、简洁且高效的博客框架</center>
-&emsp;&emsp;目前Hexo提供了279个主题，当前博客主题是nexT。还提供了312个插件，当前博客安装了一些。不得不说，和Gridea比起来Hexo还是年长了不少，功能强悍。但就是搭建和运用起来对不了解npm、Git、GitHub的人不友善。所以如果你是一个计算机小白，没有编程经验的人，可以选择Gridea记录日常。如果你是计算机高手，或在学计算机的同学可以选择Hexo来记录你的学习经验和遇到的问题。
-
-<p><img src="https://i.loli.net/2019/11/30/v5LDYElnyRAczKT.jpg#pic_center" alt="HEXO"></p>
+<h3 id="搜索引擎"><a href="#搜索引擎" class="headerlink" title="搜索引擎"></a>搜索引擎</h3><p><a href="https://www.google.com/" target="_blank" rel="noopener">Google</a>&emsp;&emsp;<a href="https://www.baidu.com" target="_blank" rel="noopener">百度搜索</a>&emsp;&emsp;<a href="https://www.dogedoge.com/" target="_blank" rel="noopener">多吉搜索</a></p>
+<h3 id="ICO-矢量图标库"><a href="#ICO-矢量图标库" class="headerlink" title="ICO 矢量图标库"></a>ICO 矢量图标库</h3><p><a href="https://www.easyicon.net/" target="_blank" rel="noopener">Easyicon</a>&emsp;&emsp;<a href="https://www.iconfont.cn/" target="_blank" rel="noopener">Iconfont</a>&emsp;&emsp;<a href="https://fontawesome.com/" target="_blank" rel="noopener">Font Awesome</a></p>
+<h3 id="电影片源"><a href="#电影片源" class="headerlink" title="电影片源"></a>电影片源</h3><p><a href="http://pianyuan.la/" target="_blank" rel="noopener">片源网</a>&emsp;&emsp;<a href="http://www.rrys2019.com/" target="_blank" rel="noopener">人人影视</a>&emsp;&emsp;<a href="https://rarbgprx.org/" target="_blank" rel="noopener">Rarbg</a>&emsp;&emsp;<a href="https://yts.am/" target="_blank" rel="noopener">YTS</a>&emsp;&emsp;<a href="https://zooqle.com/" target="_blank" rel="noopener">Zooqle</a></p>
+<h3 id="电影字幕"><a href="#电影字幕" class="headerlink" title="电影字幕"></a>电影字幕</h3><p><a href="http://www.zimuku.la/" target="_blank" rel="noopener">字幕库</a>&emsp;&emsp;<a href="http://www.rrys2019.com/" target="_blank" rel="noopener">人人影视字幕组</a>&emsp;&emsp;<a href="http://assrt.net/" target="_blank" rel="noopener">射手网(伪)</a>&emsp;&emsp;<a href="http://www.zimuxia.cn/" target="_blank" rel="noopener">FIX字幕侠</a>&emsp;&emsp;<a href="http://www.orangesub.com/" target="_blank" rel="noopener">Orange字幕组</a>&emsp;&emsp;<a href="http://dbfansub.com/" target="_blank" rel="noopener">电波字幕组</a></p>
+<h3 id="逆向破解"><a href="#逆向破解" class="headerlink" title="逆向破解"></a>逆向破解</h3><p><a href="https://www.xuepojie.com/" target="_blank" rel="noopener">学破解论坛</a>&emsp;&emsp;<a href="https://www.52pojie.cn/" target="_blank" rel="noopener">吾爱破解</a>&emsp;&emsp;<a href="https://www.chinapyg.com/" target="_blank" rel="noopener">PYG飘云阁</a></p>
+<h3 id="图床"><a href="#图床" class="headerlink" title="图床"></a>图床</h3><p><a href="https://sbimg.cn/" target="_blank" rel="noopener">公益图床</a></p>
+<h3 id="网盘-临时存储"><a href="#网盘-临时存储" class="headerlink" title="网盘 / 临时存储"></a>网盘 / 临时存储</h3><p><a href="https://www.lanzou.com/" target="_blank" rel="noopener">蓝奏云</a>&emsp;&emsp;<a href="https://pan.baidu.com/" target="_blank" rel="noopener">百度网盘</a>&emsp;&emsp;<a href="https://www.weiyun.com/" target="_blank" rel="noopener">腾讯微云</a>&emsp;&emsp;<a href="https://www.wenshushu.cn/" target="_blank" rel="noopener">文叔叔</a></p>
+<p>持续更新…….</p>
 ]]></content>
+      <categories>
+        <category>网站</category>
+      </categories>
+      <tags>
+        <tag>导航</tag>
+        <tag>网站</tag>
+        <tag>书签</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>装机软件</title>
+    <url>/2020/04/16/%E8%A3%85%E6%9C%BA%E8%BD%AF%E4%BB%B6/</url>
+    <content><![CDATA[<p>本页记录自用软件访问/下载网址，因装机导致要重新下载的软件，一个个找比较麻烦，便记录下来，方便以后装机后快速下载。默认为下载页。持续更新…….</p>
+<h3 id="下载页"><a href="#下载页" class="headerlink" title="下载页"></a>下载页</h3><p><a href="https://www.getkmspico.com/download" target="_blank" rel="noopener">KMSpico</a>&emsp;&emsp;<a href="https://im.qq.com/download/" target="_blank" rel="noopener">QQ</a>&emsp;&emsp;<a href="https://pc.weixin.qq.com/" target="_blank" rel="noopener">WeChat for PC</a>&emsp;&emsp;<a href="https://music.163.com/#/download" target="_blank" rel="noopener">网易云音乐</a>&emsp;&emsp;<a href="https://www.iplaysoft.com/tools/chrome/" target="_blank" rel="noopener">Google Chrome 离线安装包</a>&emsp;&emsp;<a href="https://www.huorong.cn/" target="_blank" rel="noopener">火绒安全</a>&emsp;&emsp;<a href="https://dl.xunlei.com/" target="_blank" rel="noopener">迅雷产品</a>&emsp;&emsp;<a href="https://notepad-plus-plus.org/" target="_blank" rel="noopener">Notepad++</a>&emsp;&emsp;<a href="https://www.7-zip.org/" target="_blank" rel="noopener">7Zip</a>&emsp;&emsp;<a href="https://geekuninstaller.com/download" target="_blank" rel="noopener">Geek Uninstaller</a>&emsp;&emsp;<a href="http://www.pcfreetime.com/formatfactory/CN/download.html" target="_blank" rel="noopener">格式工厂</a>&emsp;&emsp;<a href="https://www.i4.cn/" target="_blank" rel="noopener">爱思助手</a>&emsp;&emsp;<a href="https://guanjia.qq.com/" target="_blank" rel="noopener">腾讯电脑管家</a>&emsp;&emsp;<a href="https://pan.baidu.com/download" target="_blank" rel="noopener">百度网盘</a>&emsp;&emsp;<a href="https://www.weiyun.com/download.html" target="_blank" rel="noopener">腾讯微云</a>&emsp;&emsp;<a href="http://www.drivergenius.com/" target="_blank" rel="noopener">驱动精灵</a>&emsp;&emsp;<a href="https://www.voidtools.com/zh-cn/downloads/" target="_blank" rel="noopener">Everything</a>&emsp;&emsp;<a href="https://git-scm.com/downloads" target="_blank" rel="noopener">Git</a>&emsp;&emsp;<a href="https://nodejs.org/en/download/" target="_blank" rel="noopener">Nodejs</a></p>
+<h3 id="网盘链接"><a href="#网盘链接" class="headerlink" title="网盘链接"></a>网盘链接</h3><table>
+<thead>
+<tr>
+<th>软件/资源名称</th>
+<th>网盘类型</th>
+<th>下载地址</th>
+<th>访问密码</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Bandicam_绿色便携版</td>
+<td>蓝奏云</td>
+<td><strong><a href="https://only1studio.lanzous.com/ibhz8lc" target="_blank" rel="noopener">点我前往</a></strong></td>
+<td>cn0y</td>
+</tr>
+<tr>
+<td>Ollydbg</td>
+<td>蓝奏云</td>
+<td><strong><a href="https://only1studio.lanzous.com/b05492i9i" target="_blank" rel="noopener">点我前往</a></strong></td>
+<td>g6xl</td>
+</tr>
+<tr>
+<td>易语言5.9破解版</td>
+<td>蓝奏云</td>
+<td><strong><a href="https://only1studio.lanzous.com/ibhzjuh" target="_blank" rel="noopener">点我前往</a></strong></td>
+<td>2o4e</td>
+</tr>
+<tr>
+<td>VC98linker</td>
+<td>蓝奏云</td>
+<td><strong><a href="https://only1studio.lanzous.com/ibhynid" target="_blank" rel="noopener">点我前往</a></strong></td>
+<td>8ijb</td>
+</tr>
+</tbody></table>
+]]></content>
+      <categories>
+        <category>软件</category>
+      </categories>
+      <tags>
+        <tag>装机</tag>
+        <tag>软件</tag>
+      </tags>
   </entry>
   <entry>
     <title>一个喜爱电影的人能利用什么工具？</title>
     <url>/2020/04/13/%E4%B8%80%E4%B8%AA%E5%96%9C%E7%88%B1%E7%94%B5%E5%BD%B1%E7%9A%84%E4%BA%BA%E8%83%BD%E5%88%A9%E7%94%A8%E4%BB%80%E4%B9%88%E5%B7%A5%E5%85%B7%EF%BC%9F/</url>
     <content><![CDATA[<p><img src="https://i.loli.net/2019/12/02/D4YjLaBhImNuwfZ.jpg#pic_center" alt="Jocker"></p>
+<a id="more"></a>
+
 <h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>[本文完成于2019.02.03，2019.12.01迁移到本站]<br>&emsp;&emsp;读者你好，我是一名浙江理工大学的大二学生，除了学习以外，我还酷爱音乐和电影。今天就给网友们分享一下，我的观影方法和工具。 因为我的性格是比较喜静的,是比较内向不善与人交流，不喜欢人多的地方，不喜欢见太多的陌生人。所以我不喜欢去电影院观影。我更喜欢一个人，在电脑上或者手机平板上看电影。这样的好处是：</p>
 <ol>
 <li>安静，不会像电影院那样嘈杂，有接听手机或者有人发出声音。</li>
@@ -23,8 +84,6 @@
 <li>充分的感受，和抒发感情。我有看煽情的电影情节会落泪的，所以，男儿哭吧！不用担心别人的眼光啦。</li>
 <li>方便，不用预约订票，赶时间之类的，有时间就看一部，不必刻意安排时间去电影院。</li>
 </ol>
-<a id="more"></a>
-
 <p>&emsp;&emsp;当然这样看电影的话也是有很多不足的，视听效果是绝对没有电影院好的，除非大佬家里安装了一套家庭影院。还有情侣谈恋爱，约会之类的去电影院的可以选择忽略这篇文章，我这个单身狗不配！<br>我相信喜爱电影的人是不会嫌麻烦的，因为电影也像游戏，音乐一样是一种信仰，我能从电影里学习到知识，我也能从电影里感悟到人生哲理，我也能透过电影这面镜子里看到不足的自己。</p>
 <p>&emsp;&emsp;首先，我写这篇文章的目的是，希望能够帮到和我一样的喜爱电影的人省钱，省力，省时间。我们常知的网络观看电影的方式一般都是使用视频播放软件，比如某讯视频，某奇艺视频，某酷视频等等。这样的观影的好处是方便，一个app就能看电影，很多电影。但是我不喜欢的，就是这些视频软件的盈利和播放方式（怀念某播）。<br>2019年，某讯的普通VIP是20元/月（首开10元）。涨价了好像是，我记得以前是15元来着？后来又出了超级影视VIP，约50元/月。某奇艺的普通VIP是19.8/月黄金会员、钻石VIP是30/月（新用户连续包月15元/月），还有一个体育会员，就不说了。某酷的普通VIP是20元/月（连续包月15元/月）。<br>虽然这些视频软件提供了方便快捷的观影，但是还有很多不足的地方，比如某些播放软件的会员特权里是写着免广告的，但是！你以为就真的没广告了吗？比如什么“会员专属广告”，还有令人头疼的贴片广告，甚至还有放到一半的穿插广告！</p>
 <p>&emsp;&emsp;广告的问题是很令人头疼的，但是还有一个问题也不简单，就是电影资源库的问题，因为买一部电影的版权是很昂贵的，也有一些电影版权也不出售，所以不可能出现一个App里包含了世界上的所有电影。有些电影即使开了会员，某讯视频里面也是没有的，然后你看了一下某奇艺视频有，但是要VIP才能播放，有钱的人会毫不犹豫的充值。但也会出现一些院线电影需另外支付才能播放的情况。</p>
@@ -141,72 +200,15 @@
       </tags>
   </entry>
   <entry>
-    <title>装机软件</title>
-    <url>/2020/04/16/%E8%A3%85%E6%9C%BA%E8%BD%AF%E4%BB%B6/</url>
-    <content><![CDATA[<p>本页记录自用软件访问/下载网址，因装机导致要重新下载的软件，一个个找比较麻烦，便记录下来，方便以后装机后快速下载。默认为下载页。持续更新…….</p>
-<h1 id="下载页"><a href="#下载页" class="headerlink" title="下载页"></a>下载页</h1><p><a href="https://www.getkmspico.com/download" target="_blank" rel="noopener">KMSpico</a>&emsp;&emsp;<a href="https://im.qq.com/download/" target="_blank" rel="noopener">QQ</a>&emsp;&emsp;<a href="https://pc.weixin.qq.com/" target="_blank" rel="noopener">WeChat for PC</a>&emsp;&emsp;<a href="https://music.163.com/#/download" target="_blank" rel="noopener">网易云音乐</a>&emsp;&emsp;<a href="https://www.iplaysoft.com/tools/chrome/" target="_blank" rel="noopener">Google Chrome 离线安装包</a>&emsp;&emsp;<a href="https://www.huorong.cn/" target="_blank" rel="noopener">火绒安全</a>&emsp;&emsp;<a href="https://dl.xunlei.com/" target="_blank" rel="noopener">迅雷产品</a>&emsp;&emsp;<a href="https://notepad-plus-plus.org/" target="_blank" rel="noopener">Notepad++</a>&emsp;&emsp;<a href="https://www.7-zip.org/" target="_blank" rel="noopener">7Zip</a>&emsp;&emsp;<a href="https://geekuninstaller.com/download" target="_blank" rel="noopener">Geek Uninstaller</a>&emsp;&emsp;<a href="http://www.pcfreetime.com/formatfactory/CN/download.html" target="_blank" rel="noopener">格式工厂</a>&emsp;&emsp;<a href="https://www.i4.cn/" target="_blank" rel="noopener">爱思助手</a>&emsp;&emsp;<a href="https://guanjia.qq.com/" target="_blank" rel="noopener">腾讯电脑管家</a>&emsp;&emsp;<a href="https://pan.baidu.com/download" target="_blank" rel="noopener">百度网盘</a>&emsp;&emsp;<a href="https://www.weiyun.com/download.html" target="_blank" rel="noopener">腾讯微云</a>&emsp;&emsp;<a href="http://www.drivergenius.com/" target="_blank" rel="noopener">驱动精灵</a>&emsp;&emsp;<a href="https://www.voidtools.com/zh-cn/downloads/" target="_blank" rel="noopener">Everything</a>&emsp;&emsp;<a href="https://git-scm.com/downloads" target="_blank" rel="noopener">Git</a>&emsp;&emsp;<a href="https://nodejs.org/en/download/" target="_blank" rel="noopener">Nodejs</a></p>
-<h1 id="网盘链接"><a href="#网盘链接" class="headerlink" title="网盘链接"></a>网盘链接</h1><table>
-<thead>
-<tr>
-<th>软件/资源名称</th>
-<th>网盘类型</th>
-<th>下载地址</th>
-<th>访问密码</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>Bandicam_绿色便携版</td>
-<td>蓝奏云</td>
-<td><strong><a href="https://only1studio.lanzous.com/ibhz8lc" target="_blank" rel="noopener">点我前往</a></strong></td>
-<td>cn0y</td>
-</tr>
-<tr>
-<td>Ollydbg</td>
-<td>蓝奏云</td>
-<td><strong><a href="https://only1studio.lanzous.com/b05492i9i" target="_blank" rel="noopener">点我前往</a></strong></td>
-<td>g6xl</td>
-</tr>
-<tr>
-<td>易语言5.9破解版</td>
-<td>蓝奏云</td>
-<td><strong><a href="https://only1studio.lanzous.com/ibhzjuh" target="_blank" rel="noopener">点我前往</a></strong></td>
-<td>2o4e</td>
-</tr>
-<tr>
-<td>VC98linker</td>
-<td>蓝奏云</td>
-<td><strong><a href="https://only1studio.lanzous.com/ibhynid" target="_blank" rel="noopener">点我前往</a></strong></td>
-<td>8ijb</td>
-</tr>
-</tbody></table>
-]]></content>
-      <categories>
-        <category>软件</category>
-      </categories>
-      <tags>
-        <tag>装机</tag>
-        <tag>软件</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>书签导航页</title>
-    <url>/2020/04/16/%E4%B9%A6%E7%AD%BE%E5%AF%BC%E8%88%AA%E9%A1%B5/</url>
-    <content><![CDATA[<center>排名不分先后</center>
+    <title>祝贺博客诞生</title>
+    <url>/2020/04/12/%E5%8D%9A%E5%AE%A2%E8%AF%9E%E7%94%9F/</url>
+    <content><![CDATA[<p><img src="https://i.loli.net/2019/11/30/v5LDYElnyRAczKT.jpg#pic_center" alt="HEXO"></p>
+<a id="more"></a>
 
-<h1 id="搜索引擎"><a href="#搜索引擎" class="headerlink" title="搜索引擎"></a>搜索引擎</h1><p><a href="https://www.google.com/" target="_blank" rel="noopener">Google</a>&emsp;&emsp;<a href="https://www.baidu.com" target="_blank" rel="noopener">百度</a>&emsp;&emsp;<a href="https://www.dogedoge.com/" target="_blank" rel="noopener">多吉搜索</a></p>
-<h1 id="ICO-矢量图标库"><a href="#ICO-矢量图标库" class="headerlink" title="ICO 矢量图标库"></a>ICO 矢量图标库</h1><p><a href="https://www.easyicon.net/" target="_blank" rel="noopener">Easyicon</a>&emsp;&emsp;<a href="https://www.iconfont.cn/" target="_blank" rel="noopener">Iconfont</a>&emsp;&emsp;<a href="https://fontawesome.com/" target="_blank" rel="noopener">Font Awesome</a></p>
-<h1 id="电影片源"><a href="#电影片源" class="headerlink" title="电影片源"></a>电影片源</h1><p><a href="http://pianyuan.la/" target="_blank" rel="noopener">片源网</a>&emsp;&emsp;<a href="http://www.rrys2019.com/" target="_blank" rel="noopener">人人影视</a>&emsp;&emsp;<a href="https://rarbgprx.org/" target="_blank" rel="noopener">Rarbg</a>&emsp;&emsp;<a href="https://yts.am/" target="_blank" rel="noopener">YTS</a>&emsp;&emsp;<a href="https://zooqle.com/" target="_blank" rel="noopener">Zooqle</a></p>
-<h1 id="电影字幕"><a href="#电影字幕" class="headerlink" title="电影字幕"></a>电影字幕</h1><p><a href="http://www.zimuku.la/" target="_blank" rel="noopener">字幕库</a>&emsp;&emsp;<a href="http://www.rrys2019.com/" target="_blank" rel="noopener">人人影视字幕组</a>&emsp;&emsp;<a href="http://assrt.net/" target="_blank" rel="noopener">射手网(伪)</a>&emsp;&emsp;<a href="http://www.zimuxia.cn/" target="_blank" rel="noopener">FIX字幕侠</a>&emsp;&emsp;<a href="http://www.orangesub.com/" target="_blank" rel="noopener">Orange字幕组</a>&emsp;&emsp;<a href="http://dbfansub.com/" target="_blank" rel="noopener">电波字幕组</a></p>
-<h1 id="逆向破解"><a href="#逆向破解" class="headerlink" title="逆向破解"></a>逆向破解</h1><p><a href="https://www.xuepojie.com/" target="_blank" rel="noopener">学破解论坛</a>&emsp;&emsp;<a href="https://www.52pojie.cn/" target="_blank" rel="noopener">吾爱破解</a>&emsp;&emsp;<a href="https://www.chinapyg.com/" target="_blank" rel="noopener">PYG飘云阁</a></p>
-<p>持续更新…….</p>
+<p>&emsp;&emsp;这是一个基于Hexo搭建的静态博客，我用了极短的时间来搭建它，然后用了大量时间修饰和美化它。这是博客里的第一篇文章，纪念今天我完成了博客的搭建，也纪念我拥有了一个完整的博客。之前我也有搭建过几个博客，第一个是自己购买了域名，服务器等搭建的，后来由于经费和备案问题就丢弃了。第二个是基于Gridea搭建的静态博客，Gridea是个非常不错的静态博客写作客户端。搭建过程也非常简单，通过官网的几个视频教程很快就能配合Github Pages搭建一个属于自己的静态博客，并且在多个平台都有GUI客户端来完成博客配置，写作和上传等功能。由于Gridea还是有些年轻，当后来我需要更高级些的功能时，我无意中通过B站发现了水寒的视频，然后我认识了Hexo。</p>
+<center>快速、简洁且高效的博客框架</center>
+&emsp;&emsp;目前Hexo提供了279个主题，当前博客主题是nexT。还提供了312个插件，当前博客安装了一些。不得不说，和Gridea比起来Hexo还是年长了不少，功能强悍。但就是搭建和运用起来对不了解npm、Git、GitHub的人不友善。所以如果你是一个计算机小白，没有编程经验的人，可以选择Gridea记录日常。如果你是计算机高手，或在学计算机的同学可以选择Hexo来记录你的学习经验和遇到的问题。
+
 ]]></content>
-      <categories>
-        <category>网站</category>
-      </categories>
-      <tags>
-        <tag>导航</tag>
-        <tag>网站</tag>
-        <tag>书签</tag>
-      </tags>
   </entry>
 </search>
